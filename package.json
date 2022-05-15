@@ -1,0 +1,24 @@
+{
+  "name": "@hack0x90/instautils",
+  "version": "1.0.0",
+  "description": "Instagram Downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hack0x90/instautils.git"
+  },
+  "keywords": ["instagram downloader", "instautils"],
+  "author": "Jahanzeb <jahan@hack0x90.com> (https://instautils.com/en)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hack0x90/instautils/issues"
+  },
+  "homepage": "https://instautils.com/en"
+}
